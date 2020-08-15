@@ -1,8 +1,11 @@
 ### Hello world, I'm Manuela
 
 💻 <b>Front-end developer</b><br>
-📌 Living in São Paulo, Brazil 
-  
+📌 Based in São Paulo, Brazil 
+
+- Currently studying at Rocketseat 🚀 GoStack 
+- On the last year of Mathematics at IME-USP
+
 <br>
 
 
@@ -42,7 +45,7 @@
 </a>
 
 
-<br><br>
+<br><br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuelabognar)](https://github.com/manuelabognar/github-readme-stats)
 
