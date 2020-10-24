@@ -3,8 +3,8 @@
 💻 <b>Front-end developer</b><br>
 📌 Based in São Paulo, Brazil 
 
-- Student at Rocketseat 🚀 GoStack 
 - Final-year student of Mathematics at IME-USP
+- Rocketseat 🚀
 
 <br>
 
