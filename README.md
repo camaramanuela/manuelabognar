@@ -3,7 +3,7 @@
 💻 <b>Front-end developer</b><br>
 📌 Based in São Paulo, Brazil 
 
-- Final-year student of Mathematics at IME-USP
+- Mathematics at IME-USP
 - Rocketseat 🚀
 
 <br>
