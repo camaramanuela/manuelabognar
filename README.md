@@ -7,7 +7,7 @@
 
 <div>
   <a href="https://github.com/manuelabognar">
-  <img height="168em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelabognar&layout=compact&langs_count=4&theme=dracula"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelabognar&layout=compact&langs_count=4&theme=dracula"/>
 </div>
 
   
